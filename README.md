@@ -5,3 +5,5 @@ The takes an equation and factors it, solves it, or graphs it.
 It is very self explanatory and easy to use
 
 Anyone may use it and view the source code as long as they do not claim it as their own.
+
+Note: This requires JFreeChart in order to take advantage of Graphing. It can be found at http://www.jfree.org/jfreechart/
